@@ -37,7 +37,7 @@ Clone the project
   git clone https://github.com/Sachin6126/ReqresAPI.git
 ```
 
-Open Postman and Import file
+Open Postman and Import "reqres API CRUD Demo.json" file
 
 ```bash
   Click on Run Collection
